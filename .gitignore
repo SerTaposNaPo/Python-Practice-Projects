@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# PyCharm configuration
+.idea/
+
+# Local data / output logs generated at runtime
+*.txt
+*.json
+__pycache__/
